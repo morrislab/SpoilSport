@@ -1,6 +1,6 @@
 # SpoilSport
 SpoilSport is a method to correct the inferred cellular proportion and number of mutations in a subclonal reconstruction for the effect of the winner's curse.
-For a description of the method, see Supplement section XX in the PCAWG Heterogeneity paper (available on BioArxiv at:)
+For a description of the method, see Supplement section XX in the PCAWG Heterogeneity paper (available on BioArxiv at:[https://www.biorxiv.org/content/early/2018/07/13/312041])
 SpoilSport requires R, and the bbmle and emdbook packages.
 SpoilSport has been tested on OS X Version 10.14 with the following package versions:
 * R: version 3.5.0
