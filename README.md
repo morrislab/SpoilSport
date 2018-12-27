@@ -3,9 +3,9 @@ SpoilSport is a method to correct the inferred cellular proportion and number of
 For a description of the method, see Supplement section XX in the PCAWG Heterogeneity paper (available on BioArxiv at:)
 SpoilSport requires R, and the bbmle and emdbook packages.
 SpoilSport has been tested on OS X Version 10.14 with the following package versions:
-R: version 3.5.0
-bbmle 1.0.20
-emdbook 1.3.10
+* R: version 3.5.0
+* bbmle 1.0.20
+* emdbook 1.3.10
 
 The source code is released under the GNU Public License v3.
 SpoilSport requires the following input:
